@@ -646,7 +646,7 @@ a:hover {
 }
 
 #header h1 {
-  font-size: 4.35em;
+  font-size: 5em;
   font-weight: 900;
   letter-spacing: -0.035em;
   line-height: 1em;
@@ -676,7 +676,7 @@ a:hover {
   -ms-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
   display: inline-block;
-  height: 5.35em;
+  height: 5em;
   line-height: 5.885em;
   opacity: 0;
   position: relative;
@@ -769,7 +769,7 @@ a:hover {
   border-radius: 100%;
   border: solid 1px #fff;
   display: block;
-  font-size: 1.75em;
+  font-size: 1.7em;
   height: 2.5em;
   line-height: 2.5em;
   position: relative;
@@ -788,7 +788,7 @@ a:hover {
 }
 
 #header nav a:active {
-  font-size: 0.95em;
+  font-size: 0.9em;
   background: none;
 }
 
