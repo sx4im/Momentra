@@ -36,11 +36,11 @@ Change colors, fonts and animations with CSS variables in `css/style.css`
 
 ## 🌐 Browser Support
 
-- Chrome ✅
-- Firefox ✅
-- Safari ✅
-- Edge ✅
-- Opera ✅
+- Chrome   ✅
+- Firefox  ✅
+- Safari   ✅
+- Edge     ✅
+- Opera    ✅
 
 
 Made with ❤️ by [SAIM SHAFIQUE]
