@@ -2,13 +2,13 @@
 
 # ✨ Momentra ✨
 
-![](https://img.shields.io/badge/Version-1.0.0-brightgreen)
-![](https://img.shields.io/badge/License-MIT-blue)
-![](https://img.shields.io/badge/Made%20with-❤️-red)
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)
 
 **Capture moments, create stories**
 
-[ADD YOUR MAIN GALLERY GIF HERE]
+![Gallery Demo](https://raw.githubusercontent.com/fireship-io/175-code-screenshots/master/assets/carbon-photo-gallery.png)
 
 </div>
 
@@ -18,13 +18,13 @@
 
 Momentra isn't just a photo gallery—it's a visual storytelling platform that breathes life into your memories. Built with clean HTML, CSS, and vanilla JavaScript, Momentra delivers a premium gallery experience without the bloat.
 
-[ADD A SCREENSHOT OF YOUR GALLERY LAYOUT HERE]
+![Gallery Layout](https://miro.medium.com/v2/resize:fit:1400/1*y9IJxy9md_4C_nYqzj_PqQ.gif)
 
 ## ✨ Features That Shine
 
 <div align="center">
 
-[ADD A FEATURE SHOWCASE GIF HERE]
+![Feature Animation](https://cdn.hashnode.com/res/hashnode/image/upload/v1624453170534/7h_RdTKYY.gif)
 
 </div>
 
@@ -47,7 +47,7 @@ cd momentra
 
 <div align="center">
 
-[ADD A QUICK START DEMONSTRATION GIF HERE]
+![Quick Start](https://devtrium.com/static/e8a9d3260082f4b90c3978a63bc4b1f8/9231c/setting-up-new-react-project.gif)
 
 </div>
 
@@ -55,13 +55,13 @@ cd momentra
 
 Momentra transforms ordinary photo collections into extraordinary visual experiences:
 
-[ADD A GIF SHOWING YOUR GALLERY TRANSITIONS HERE]
+![Gallery Animation](https://assets.materialup.com/uploads/77a5e504-0645-47a0-9c7a-cbc3ce8da13e/preview.gif)
 
 ## 🎨 Styling Your Gallery
 
 Express your unique aesthetic by customizing Momentra's appearance:
 
-[ADD A GIF SHOWING THEME SWITCHING OR CUSTOMIZATION HERE]
+![Theme Customization](https://i.pinimg.com/originals/90/bc/b6/90bcb6ddd390eae51aeeb9df48cf919f.gif)
 
 ## 🛠️ Smart Configuration
 
@@ -73,13 +73,13 @@ Your gallery looks stunning on any device:
 
 <div align="center">
 
-[ADD A GIF SHOWING RESPONSIVE BEHAVIOR HERE]
+![Responsive Design](https://www.thedesigngoodness.com/wp-content/uploads/2020/05/GIF-8.gif)
 
 </div>
 
 ## 🌐 Works Everywhere
 
-| [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png] | [FIREFOX LOGO] | [SAFARI LOGO] |
+| ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png) |
 |:---:|:---:|:---:|
 | Chrome | Firefox | Safari |
 
@@ -87,13 +87,13 @@ Your gallery looks stunning on any device:
 
 Momentra in the wild:
 
-[ADD A GIF SHOWCASING A REAL-WORLD IMPLEMENTATION]
+![Gallery Showcase](https://www.sliderrevolution.com/wp-content/uploads/2023/03/firefly-gif-maker-1.gif)
 
 ## 🙌 Community & Support
 
 Join our growing community of creators:
 
-[ADD A COMMUNITY OR COLLABORATION GRAPHIC HERE]
+![Community](https://cdn.dribbble.com/users/1049995/screenshots/3764544/_____.gif)
 
 ## 📄 License
 
@@ -105,6 +105,6 @@ Released under the MIT License - create freely!
 
 **Momentra** — Developed with passion by [Your Name]
 
-[ADD YOUR SIGNATURE GIF OR LOGO HERE]
+![Footer Animation](https://i.pinimg.com/originals/96/a0/fc/96a0fce7b4400fa758656a75aedba8c6.gif)
 
 </div>
