@@ -8,7 +8,7 @@
 
 **Capture moments, create stories**
 
-![](https://cdn.dribbble.com/users/1187836/screenshots/6013595/media/da2c8c85e823fd8ca85e38fccac9b26b.gif)
+[ADD YOUR MAIN GALLERY GIF HERE]
 
 </div>
 
@@ -18,13 +18,13 @@
 
 Momentra isn't just a photo gallery—it's a visual storytelling platform that breathes life into your memories. Built with clean HTML, CSS, and vanilla JavaScript, Momentra delivers a premium gallery experience without the bloat.
 
-![](https://cdn.dribbble.com/users/702789/screenshots/15054318/media/1bd36fe39e14be3d4145a41292ebc30e.gif)
+[ADD A SCREENSHOT OF YOUR GALLERY LAYOUT HERE]
 
 ## ✨ Features That Shine
 
 <div align="center">
 
-![](https://cdn.dribbble.com/users/1787323/screenshots/7003560/media/f09620a58ea7f1c27d331cb2ccf81536.gif)
+[ADD A FEATURE SHOWCASE GIF HERE]
 
 </div>
 
@@ -47,7 +47,7 @@ cd momentra
 
 <div align="center">
 
-![](https://cdn.dribbble.com/users/846207/screenshots/9204806/media/c9082559ad52be169d5a9593acf4c3b3.gif)
+[ADD A QUICK START DEMONSTRATION GIF HERE]
 
 </div>
 
@@ -55,13 +55,13 @@ cd momentra
 
 Momentra transforms ordinary photo collections into extraordinary visual experiences:
 
-![](https://cdn.dribbble.com/users/1803663/screenshots/14818908/media/ff97a4f131d4ffe9673475efe9c18a7e.gif)
+[ADD A GIF SHOWING YOUR GALLERY TRANSITIONS HERE]
 
 ## 🎨 Styling Your Gallery
 
 Express your unique aesthetic by customizing Momentra's appearance:
 
-![](https://cdn.dribbble.com/users/1126935/screenshots/16378193/media/2b45cdede8bce19e0e24e945db96f1e6.gif)
+[ADD A GIF SHOWING THEME SWITCHING OR CUSTOMIZATION HERE]
 
 ## 🛠️ Smart Configuration
 
@@ -73,13 +73,13 @@ Your gallery looks stunning on any device:
 
 <div align="center">
 
-![](https://cdn.dribbble.com/users/957817/screenshots/14110455/media/89160b52b607b8aae1080fe9e0363ddd.gif)
+[ADD A GIF SHOWING RESPONSIVE BEHAVIOR HERE]
 
 </div>
 
 ## 🌐 Works Everywhere
 
-| ![](https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b5b396139b7f4bba6c39f43fbfbfb.png) | ![](https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b5b396139b7f4bba6c39f43fbfbfb.png) | ![](https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b5b396139b7f4bba6c39f43fbfbfb.png) |
+| [CHROME LOGO] | [FIREFOX LOGO] | [SAFARI LOGO] |
 |:---:|:---:|:---:|
 | Chrome | Firefox | Safari |
 
@@ -87,13 +87,13 @@ Your gallery looks stunning on any device:
 
 Momentra in the wild:
 
-![](https://cdn.dribbble.com/users/1624253/screenshots/16583273/media/9a7eccd17f9340bd204443d451983add.gif)
+[ADD A GIF SHOWCASING A REAL-WORLD IMPLEMENTATION]
 
 ## 🙌 Community & Support
 
 Join our growing community of creators:
 
-![](https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/52dbe2f422368d9f9ec6dbe23cceb21f.gif)
+[ADD A COMMUNITY OR COLLABORATION GRAPHIC HERE]
 
 ## 📄 License
 
@@ -105,6 +105,6 @@ Released under the MIT License - create freely!
 
 **Momentra** — Developed with passion by [Your Name]
 
-![](https://cdn.dribbble.com/users/185738/screenshots/2728147/media/c11be8f7bbe5e9a3e5a9b599adc39e33.gif)
+[ADD YOUR SIGNATURE GIF OR LOGO HERE]
 
 </div>
