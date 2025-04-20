@@ -8,7 +8,7 @@
 
 **Capture moments, create stories**
 
-![Gallery Demo]([https://raw.githubusercontent.com/fireship-io/175-code-screenshots/master/assets/carbon-photo-gallery.png](https://unsplash.com/photos/black-nikon-dslr-camera-on-blue-surface-HSXIp58yPyI))
+![Gallery Demo](https://unsplash.com/photos/black-nikon-dslr-camera-on-blue-surface-HSXIp58yPyI)
 
 </div>
 
