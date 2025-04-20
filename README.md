@@ -8,7 +8,7 @@
 
 **Capture moments, create stories**
 
-![Gallery Demo](https://unsplash.com/photos/black-nikon-dslr-camera-on-blue-surface-HSXIp58yPyI)
+![Gallery Demo](https://images.unsplash.com/photo-1581591524425-c7e0978865fc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 </div>
 
