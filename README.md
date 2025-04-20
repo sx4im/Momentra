@@ -79,7 +79,7 @@ Your gallery looks stunning on any device:
 
 ## 🌐 Works Everywhere
 
-| [CHROME LOGO] | [FIREFOX LOGO] | [SAFARI LOGO] |
+| [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png] | [FIREFOX LOGO] | [SAFARI LOGO] |
 |:---:|:---:|:---:|
 | Chrome | Firefox | Safari |
 
