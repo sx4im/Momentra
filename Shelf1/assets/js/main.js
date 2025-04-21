@@ -1,3 +1,4 @@
+// contact form
 const form = document.getElementById("contactForm");
 const formStatus = document.getElementById("formStatus");
 
@@ -32,6 +33,17 @@ form.addEventListener("submit", async function (e) {
     formStatus.textContent = "Error sending message. Please try again.";
   }
 });
+// smoothscroll
+document
+  .querySelector(".scroll-to-footer-link")
+  .addEventListener("click", function (e) {
+    e.preventDefault();
+
+    document.querySelector("#footer").scrollIntoView({
+      behavior: "smooth",
+      block: "start", // You can adjust this value to "center", "end", etc.
+    });
+  });
 
 (function ($) {
   var $window = $(window),
