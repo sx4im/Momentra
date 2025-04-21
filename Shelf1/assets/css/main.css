@@ -8,15 +8,14 @@
 html {
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none; /* IE and Edge */
-  scroll-behavior: smooth;
 }
 
 html::-webkit-scrollbar {
-  display: none; 
+  display: none;
 }
 
 #momentra {
-  color: #000; 
+  color: #000;
   font-weight: bold;
   font-size: 2em;
   animation: colorChange 10s infinite; /* Change color every 10 seconds */
