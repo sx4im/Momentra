@@ -188,26 +188,29 @@
 		<!-- Footer -->
 		<footer id="footer">
 			<section>
-				<form method="POST" action="https://formspree.io/f/xyzedkdw">
+				<form id="contactForm" method="POST" action="https://formspree.io/f/xblorype">
 					<div class="fields">
 						<div class="field">
 							<label for="name">Name</label>
-							<input type="text" name="name" id="name" />
+							<input type="text" name="name" id="name" required />
 						</div>
 						<div class="field">
 							<label for="email">Email</label>
-							<input type="email" name="email" id="email" />
+							<input type="email" name="email" id="email" required />
 						</div>
 						<div class="field">
 							<label for="message">Message</label>
-							<textarea name="message" id="message" rows="3"></textarea>
+							<textarea name="message" id="message" rows="3" required></textarea>
 						</div>
 					</div>
 					<ul class="actions">
 						<li><input type="submit" value="Send Message" /></li>
 					</ul>
+					<p id="formStatus" style="display:none; color: green; margin-top: 10px;">Message sent successfully!
+					</p>
 				</form>
 			</section>
+
 			<section class="split contact">
 				<section class="alt">
 					<h3>Address</h3>
@@ -227,11 +230,9 @@
 						<li><a href="https://www.twitter.com/sx4im" target="_blank"
 								class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
 						<li><a href="https://www.linkedin.com/in/sx4im" target="_blank"
-								class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a>
-						</li>
+								class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
 						<li><a href="https://www.instagram.com/sx4im" target="_blank"
-								class="icon brands alt fa-instagram"><span class="label">Instagram</span></a>
-						</li>
+								class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
 						<li><a href="https://www.github.com/sx4im" target="_blank"
 								class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
 					</ul>
