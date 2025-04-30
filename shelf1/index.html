@@ -15,10 +15,7 @@
 
 
 <body class="is-preload">
-	<div id="customLoader">
-		<div class="loader"></div>
-		<div id="loader-text">LOADING</div>
-	</div>
+
 	<!-- Wrapper -->
 
 	<div id="wrapper" class="fade-in">
@@ -276,22 +273,7 @@
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
 	<script src="assets/js/main2.js"></script>
-	<!-- loader  -->
-	<script>
-		document.addEventListener('DOMContentLoaded', function () {
-			setTimeout(function () {
-				const loader = document.getElementById('customLoader');
-				loader.style.opacity = '0';
 
-				// Remove from DOM after fade completes
-				setTimeout(function () {
-					if (loader && loader.parentNode) {
-						loader.parentNode.removeChild(loader);
-					}
-				}, 500);
-			}, 6000);
-		});
-	</script>
 
 </body>
 
