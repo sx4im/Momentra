@@ -1,5 +1,4 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 
 html,
@@ -226,7 +225,7 @@ body,
 input,
 select,
 textarea {
-  font-family: "Roboto", Helvetica, sans-serif;
+  font-family: "Poppiins", Helvetica, sans-serif;
   font-weight: 400;
   line-height: 1.65;
   font-size: 1em;
@@ -269,6 +268,7 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: "Poppins", Helvetica, sans-serif;
   font-weight: 400;
   line-height: 1.25;
   margin: 0 0 0.5em 0;
@@ -923,7 +923,7 @@ ul.icons li:last-child {
 }
 
 ul.icons li .icon:before {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 /* Main */
