@@ -1,0 +1,23 @@
+
+
+/* Wrapper */
+
+	body.is-preload #wrapper:before {
+		display: none;
+	}
+
+/* Main */
+
+	body.is-preload #main .thumb {
+		pointer-events: auto;
+		opacity: 1;
+	}
+
+/* Header */
+
+	body.is-preload #header {
+		-moz-transform: none;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+	}
