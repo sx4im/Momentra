@@ -83,17 +83,6 @@ Your gallery looks stunning on any device:
 |:---:|:---:|:---:|
 | Chrome | Firefox | Safari |
 
-## 🌈 Showcase
-
-Momentra in the wild:
-
-![Gallery Showcase](https://www.sliderrevolution.com/wp-content/uploads/2023/03/firefly-gif-maker-1.gif)
-
-## 🙌 Community & Support
-
-Join our growing community of creators:
-
-![Community](https://cdn.dribbble.com/users/1049995/screenshots/3764544/_____.gif)
 
 ## 📄 License
 
@@ -103,7 +92,7 @@ Released under the MIT License - create freely!
 
 <div align="center">
 
-**Momentra** — Developed with passion by [Your Name]
+**Momentra** — Developed with passion by Saim Shafique
 
 ![Footer Animation](https://i.pinimg.com/originals/96/a0/fc/96a0fce7b4400fa758656a75aedba8c6.gif)
 
