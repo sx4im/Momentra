@@ -97,3 +97,4 @@ Released under the MIT License - create freely!
 ![Footer Animation](https://i.pinimg.com/originals/96/a0/fc/96a0fce7b4400fa758656a75aedba8c6.gif)
 
 </div>
+Testing YOLO badge 🚀 — ignore.
