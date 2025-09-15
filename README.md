@@ -16,7 +16,7 @@
 
 ## 📸 About Momentra
 
-Momentra isn't just a photo gallery—it's a visual storytelling platform that breathes life into your memories. Built with clean HTML, CSS, and vanilla JavaScript, Momentra delivers a premium gallery experience without the bloat.
+Momentra isn't just a photo gallery—it's a visual storytelling platform that breathes life into your memories. Built with clean HTML, SCSS, and vanilla JavaScript, Momentra delivers a premium gallery experience without the bloat.
 
 ![Gallery Layout](https://miro.medium.com/v2/resize:fit:1400/1*y9IJxy9md_4C_nYqzj_PqQ.gif)
 
