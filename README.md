@@ -92,7 +92,7 @@ Released under the MIT License - create freely!
 
 <div align="center">
 
-**Momentra** — Developed with passion by Saim Shafique
+**Momentra** — Developed with passion by Saim Shafique.
 
 ![Footer Animation](https://i.pinimg.com/originals/96/a0/fc/96a0fce7b4400fa758656a75aedba8c6.gif)
 
